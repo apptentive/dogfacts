@@ -1,0 +1,85 @@
+{
+  "updated_at": "some date",
+  "facts": [
+    {
+      "title": "Harper",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/harper.jpg"
+    },
+    {
+      "title": "JoJo",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/jojo.jpg"
+    },
+    {
+      "title": "Kida and Milo",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/kida_and_milo.jpg"
+    },
+    {
+      "title": "Leo",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/leo.jpg"
+    },
+    {
+      "title": "Lola",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/lola.jpg"
+    },
+    {
+      "title": "Maude",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/Maude.jpg"
+    },
+    {
+      "title": "Motley",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/motley.jpg"
+    },
+    {
+      "title": "Olaf",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/olaf.jpg"
+    },
+    {
+      "title": "Poppy",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/Poppy.jpg"
+    },
+    {
+      "title": "Rhubarb",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/rhubarb.jpg"
+    },
+    {
+      "title": "Simba",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/simba.JPG"
+    },
+    {
+      "title": "Sumo",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/Sumo.jpeg"
+    },
+    {
+      "title": "Themba",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/themba.jpg"
+    },
+    {
+      "title": "Trooper",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/trooper.JPG"
+    },
+    {
+      "title": "Tuna",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/Tuna.jpg"
+    },
+    {
+      "title": "Winter",
+      "body": "",
+      "image": "https://twinklesharma1311.github.io/dogfacts/images/winter.jpeg"
+    }
+  ]
+}
