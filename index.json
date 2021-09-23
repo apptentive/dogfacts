@@ -20,9 +20,9 @@
     },
     {
       "id": "4",
-      "dog_name": "Leo",
+      "dog_name": "Rosie",
       "dog_fact": "Seventy percent of people sign their dog’s name on their holiday cards.",
-      "image_url": "https://twinklesharma1311.github.io/dogfacts/images/leo.jpg"
+      "image_url": "https://twinklesharma1311.github.io/dogfacts/images/rosie.jpg"
     },
     {
       "id": "5",
@@ -80,18 +80,12 @@
     },
     {
       "id": "14",
-      "dog_name": "Trooper",
-      "dog_fact": "A dog’s nose print is unique, much like a person’s fingerprint",
-      "image_url": "https://twinklesharma1311.github.io/dogfacts/images/trooper.JPG"
-    },
-    {
-      "id": "15",
       "dog_name": "Tuna",
       "body": "A dog’s sense of smell is legendary, but did you know that his nose has as many as 300 million receptors? In comparison, a human nose has about 5 million",
       "image_url": "https://twinklesharma1311.github.io/dogfacts/images/Tuna.jpg"
     },
     {
-      "id": "16",
+      "id": "15",
       "dog_name": "Winter",
       "dog_fact": "All puppies are born deaf.",
       "image_url": "https://twinklesharma1311.github.io/dogfacts/images/winter.jpeg"
